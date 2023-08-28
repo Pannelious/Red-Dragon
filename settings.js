@@ -59,7 +59,7 @@ global.footer = '[ ◉ MASTERPEACE ]' //
 global.premium = ['+263788914422'] //ur premium numbers
 
 //other
-global.sessionName = 'session'
+global.sessionName = 'DragonMD;;;SybilBaptized'
 global.antitags = false
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sp = '💠'
@@ -83,7 +83,7 @@ global.mess = {
 } // END \\
     global.limitawal = {
     premium: "Infinity",
-    free: 12,
+    free: 100,
     monayawal: 1000
 }
    global.rpg = {
